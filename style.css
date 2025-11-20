@@ -1,0 +1,16 @@
+
+.Anav{
+    color:white !important;
+}
+
+.Anav:focus,.Anav:hover,.Anav:active{
+    color:darkgray !important;
+}
+
+.nav-link{
+ color: white;
+ 
+}
+.nav-link:hover{
+    color: darkgray;
+}
